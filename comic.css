@@ -11,4 +11,13 @@ body {
     border-radius: 1rem;
     background-color: red;
     box-shadow: 5px 10px;
+    
+}
+
+.form-group {
+    color: white;
+}
+
+table > thead > tr {
+    color: white;
 }
