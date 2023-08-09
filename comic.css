@@ -4,7 +4,8 @@
 }
 
 body {
-    background-image: url(./img/comic_background.jpg);
+    /* background-image: url(./img/comic_background.jpg);*/
+    background-color: rgb(130, 4, 13);
 }
 
 .container {
@@ -15,9 +16,13 @@ body {
 }
 
 .form-group {
-    color: white;
+    color: black;
 }
 
 table > thead > tr {
-    color: white;
+    color: black;
+}
+
+.btn {
+    color: black;
 }
